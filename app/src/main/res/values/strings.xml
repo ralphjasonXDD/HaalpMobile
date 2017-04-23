@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Haalp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="long_text">This app lets you post your jobs and people who can do them can apply for it.</string>
+</resources>
